@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Bluetooth Chat</string>
+
+    <string name="enter_message">Type a message</string>
+    <string name="send">Send</string>
+    <string name="list_paired_devices">List Paired Devices</string>
+    <string name="select_device">Select Device</string>
+
+    <string name="chat_me">Me: %1$s</string>
+    <string name="chat_remote">%1$s: %2$s</string>
+
+    <string name="bluetooth_unavailable">Bluetooth is not available on this device.</string>
+    <string name="permissions_required">Bluetooth permissions are required for this application.</string>
+    <string name="bluetooth_required">Bluetooth must be enabled to continue.</string>
+    <string name="server_listening">Listening for an incoming connection...</string>
+    <string name="server_failed">Could not start the Bluetooth server.</string>
+    <string name="no_paired_devices">No paired devices. Pair the two phones in Settings first.</string>
+    <string name="connecting_to">Connecting to %1$s...</string>
+    <string name="connected_to">Connected to %1$s</string>
+    <string name="connection_failed">Connection failed.</string>
+    <string name="connection_lost">Connection lost.</string>
+    <string name="no_connected_device">No device connected. Select a paired device first.</string>
+</resources>
